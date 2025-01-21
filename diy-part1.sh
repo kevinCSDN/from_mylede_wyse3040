@@ -26,6 +26,7 @@ git clone https://github.com/kenzok8/golang feeds/packages/lang/golang
 #克隆passwall环境插件
 git clone https://github.com/xiaorouji/openwrt-passwall-packages package/helloworld
 git clone https://github.com/xiaorouji/openwrt-passwall package/small1
+git clone https://github.com/vernesong/OpenClash package/openclash
 #git clone --depth=1 -b 18.06 https://github.com/kiddin9/luci-theme-edge package/luci-theme-edge
 #git clone --depth=1 https://github.com/derisamedia/luci-theme-alpha package/luci-theme-alpha
 #克隆的源码放在small文件夹,预先建立small文件夹
